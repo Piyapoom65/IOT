@@ -1,0 +1,22 @@
+# Common
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Arduino / PlatformIO
+*.bin
+*.hex
+*.elf
+.pio/
